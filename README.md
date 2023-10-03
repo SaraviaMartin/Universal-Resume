@@ -123,29 +123,3 @@ If you want to significantly speed up font loading time, find out what fonts you
 ```html
 <link rel="preload" href="./fonts/FiraGO-Regular.latin.woff2" as="font" crossorigin="anonymous">
 ```
-
-Contact Me / Hire Me
----------
-
-If you have any question, comment, or issue, please let me know via:
-- hi@webpraktikos.com
-- https://twitter.com/webpraktikos
-- or open an issue on GitHub (Issues → New issue)
-
-License
----------
-
-NonCommercial-ShareAlike 1.0 Generic (CC NC-SA 1.0)  
-https://creativecommons.org/licenses/nc-sa/1.0/
-
-### You are free to:
-
-Share — copy and redistribute the material in any medium or format  
-
-Adapt — remix, transform, and build upon the material
-
-### Under the following terms:
-
-NonCommercial — You may not use the material for commercial purposes.
-
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
