@@ -1,4 +1,4 @@
-Universal Résumé Template
+Universal Resume Template
 ---------
 
 Minimal and formal résumé (CV) website template for print, mobile, and desktop. The proportions are the same on the screen and paper. Built with amazing [Tailwind CSS](https://tailwindcss.com/).
